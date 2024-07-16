@@ -24,7 +24,7 @@ Este proyecto es una aplicación de gestión y búsqueda de libros y autores uti
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/LiterAlura.git
+git clone https://github.com/CarlosRetamozoPinatti/OracleONEJavaChallenge02.git
 ```
 
 2. Navega al directorio del proyecto:
